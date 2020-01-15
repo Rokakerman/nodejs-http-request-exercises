@@ -1,7 +1,7 @@
-const fs = require('fs');
+/*const fs = require('fs');
 const http = require('http');
 const server = http.createServer();
-const port = process.env.PORT || 8000;
+const port = process.env.PORT || 7000;
 
 
 function getInsult(clientResponse) {
